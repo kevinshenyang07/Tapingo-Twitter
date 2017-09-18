@@ -1,9 +1,10 @@
 from rest_framework import serializers
 
-from .models import Book
+from .models import Tweet
 
-class BookSerializer(serializers.ModelSerializer):
+class TweetSerializer(serializers.ModelSerializer):
 	
 	class Meta:
-		model = Book
-		fields = ('title', 'author')
+		model = Tweet
+		fields = ('id', 'user_name', 'screen_name', 
+				  'profile_img_url', 'text', 'created_at')

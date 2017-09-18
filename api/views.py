@@ -1,14 +1,14 @@
 from rest_framework import generics
   
-from .models import Book
-from .serializers import BookSerializer
+from .models import Tweet
+from .serializers import TweetSerializer
   
-class BookList(generics.ListCreateAPIView):
+class TweetList(generics.ListCreateAPIView):
 	"""
 	API endpoint for listing and creating Book objects
 	"""
-	queryset = Book.objects.all()
-	serializer_class = BookSerializer
+	queryset = Tweet.objects.all()
+	serializer_class = TweetSerializer
     
           
           
