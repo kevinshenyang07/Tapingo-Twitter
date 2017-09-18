@@ -16,21 +16,27 @@ def oauth_req(url, http_method="GET", post_body="", http_headers=None):
     return content
 
 
-def status_to_tweet(status):
-    tweet = {}
-    tweet['id'] = int(status['id_str'])
-    tweet['user_name'] = status['user']['name']
-    tweet['screen_name'] = status['user']['screen_name']
-    tweet['profile_img_url'] = status['user']['profile_img_url'].replace('\\', '')
-    tweet['text'] = status['text']
-    tweet['created_at'] = status['created_at'][4:10]
-    return tweet
+def status_to_fixture(status):
+    # declare model and primary key
+    fixture = {'model': 'api.tweet'}
+    fixture['pk'] = int(status['id_str'])
+    # initialize fields
+    fields = {}
+    fields['user_name'] = status['user']['name']
+    fields['screen_name'] = status['user']['screen_name']
+    fields['profile_image_url'] = status['user']['profile_image_url'].replace('\\', '')
+    fields['text'] = status['text']
+    fields['created_at'] = status['created_at'][4:10]
+    # assign fields to fixture
+    fixture['fields'] = fields
+    return fixture
 
 
-request_url = 'https://api.twitter.com/1.1/search/tweets.json?q=%23tapingo&count=100'
+request_url = 'https://api.twitter.com/1.1/search/tweets.json?q=tapingo&count=100'
 statuses_str = oauth_req(request_url)
-statuses = json.loads(tweets_str).get('statuses', [])
-tweets = map(status_to_tweet, statuses)
+statuses = json.loads(statuses_str).get('statuses', [])
+tweets = map(status_to_fixture, statuses)
 
-with open('./fixture/initdata.json') as fo:
-    json.dumps(tweets)
+
+with open('./fixtures/initdata.json', 'w+') as fo:
+    json.dump(tweets, fo, indent=2)
