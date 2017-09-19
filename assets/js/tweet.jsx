@@ -1,26 +1,28 @@
 import React from 'react';
 
-const strToLink = (string) => {
+const strToLink = (string, index) => {
   let href = "";
   // add link to mention
   if (string.startsWith('@')) {
     const mention = string.slice(1);
     href = "https://twitter.com/" + mention;
-    return <a href={href}>{string}</a>;
+    return <span><a key={index} href={href}>{string}</a> </span>;
   // add link to hashtag
   } else if (string.startsWith('#')) {
     const tag = string.slice(1);
     href = "https://twitter.com/hashtag/" + tag;
-    return <a href={href}>{string}</a>;
+    return <span><a key={index} href={href}>{string}</a> </span>;
   // add link to url
   } else if (string.startsWith('http')) {
-    return <a href={string}>{string}</a>;
+    return <span><a key={index} href={string}>{string}</a> </span>;
+  } else {
+    return string + " ";
   }
 };
 
 const Tweet = ({ fields }) => {
   const { id, userName, screenName, text, profileImageUrl, createdAt } = fields;
-  const words = text.split(" ").map(word => strToLink(word));
+  const words = text.split(" ").map((word, i) => strToLink(word, i));
   return (
     <li key={ id } className='tweet-item'>
       <div className='item-left'>
@@ -29,7 +31,7 @@ const Tweet = ({ fields }) => {
       <div className='item-right'>
         <div className='name-date'>
           <span>{ userName }</span>
-          { strToLink("@" + screenName) }
+          { strToLink("@" + screenName, 0) }
           <span>{ createdAt }</span>
         </div>
         <div className='text'>

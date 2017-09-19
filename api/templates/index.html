@@ -1,8 +1,10 @@
 {% load render_bundle from webpack_loader %}
+{% load static %}
 <!DOCTYPE html>
 <html>
     <head>
         <title>Tapingo Twitter Assignment</title>
+        <link rel="stylesheet" type="text/css" href="{% static 'main.css' %}" />
     </head>
     <body>
         <div id="root"></div>

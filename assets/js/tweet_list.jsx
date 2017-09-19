@@ -58,7 +58,7 @@ class TweetList extends React.Component {
       const { tweets, currentPage, tweetsPerPage } = this.state;
       // get tweets by page, index starts from 0
       const tweetComponents = tweets[currentPage-1].map(tweet => {
-        return <Tweet fields={tweet} />;
+        return <Tweet key={tweet.id} fields={tweet} />;
       });
 
       return tweetComponents;
@@ -81,14 +81,10 @@ class TweetList extends React.Component {
       pageLinks.push(
         <li key={numPages+1} id={numPages+1}
           className='page' onClick={this.handleNextPage}>
-          Next Page
+          Next
         </li>
       );
-      return (
-        <ul className='pagination'>
-          { pageLinks }
-        </ul>
-      );
+      return pageLinks;
     }
 
     render() {
@@ -97,11 +93,14 @@ class TweetList extends React.Component {
         const tweetComponents = this.createCurrentTweetComponents();
         const pagination = this.createPagination();
         return (
-          <div>
-            <h2>Tapingo Twitter Assignment</h2>
-            <ul key='1'>{ tweetComponents }</ul>
-            <ul key='2'>{ pagination }</ul>
+          <div className="background">
+            <div className="container">
+              <h2>Tapingo Twitter Assignment</h2>
+              <ul id="tweet-list">{tweetComponents}</ul>
+              <ul id="page-numbers">{pagination}</ul>
+            </div>
           </div>
+
         );
       } else {
         return (<div>loading</div>);
