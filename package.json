@@ -28,5 +28,7 @@
     "webpack": "^1.12.12",
     "webpack-bundle-tracker": "0.0.93"
   },
-  "dependencies": {}
+  "dependencies": {
+    "react-linkify": "^0.2.1"
+  }
 }
