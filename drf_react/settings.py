@@ -99,3 +99,19 @@ WEBPACK_LOADER = {
 	'STATS_FILE': os.path.join(BASE_DIR, 'webpack-stats.json'),
 	}
 }
+
+####
+#REST_FRAMEWORK
+####
+REST_FRAMEWORK = {
+
+    'DEFAULT_RENDERER_CLASSES': (
+        'djangorestframework_camel_case.render.CamelCaseJSONRenderer',
+        # Any other renders
+    ),
+
+    'DEFAULT_PARSER_CLASSES': (
+        'djangorestframework_camel_case.parser.CamelCaseJSONParser',
+        # Any other parsers
+    ),
+}
