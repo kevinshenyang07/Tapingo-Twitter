@@ -1,4 +1,6 @@
 import os
+import dj_database_url
+
 
 BASE_DIR = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))
 
@@ -65,6 +67,9 @@ DATABASES = {
     }
 }
 
+db_from_env = dj_database_url.config()
+DATABASES['default'].update(db_from_env)
+
 ####
 #INTERNATIONALIZATION
 ####
@@ -82,11 +87,13 @@ USE_TZ = True
 ####
 #STATIC FILES
 ####
+PROJECT_ROOT = os.path.dirname(os.path.abspath(__file__))
 
+STATIC_ROOT = os.path.join(PROJECT_ROOT, 'staticfiles')
 STATIC_URL = '/static/'
 
 STATICFILES_DIRS = (
-	os.path.join(BASE_DIR, 'assets'),
+	os.path.join(PROJECT_ROOT, 'static'),
 )
 
 ####
