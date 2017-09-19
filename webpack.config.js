@@ -1,6 +1,6 @@
-var path = require('path')
-var webpack = require('webpack')
-var BundleTracker = require('webpack-bundle-tracker')
+var path = require('path');
+var webpack = require('webpack');
+var BundleTracker = require('webpack-bundle-tracker');
 
 module.exports = {
     //the base directory (absolute path) for resolving the entry option
@@ -8,7 +8,7 @@ module.exports = {
     //the entry point we created earlier. Note that './' means 
     //your current directory. You don't have to specify the extension  now,
     //because you will specify extensions later in the `resolve` section
-    entry: './assets/js/index', 
+    entry: './assets/js/tapingo', 
     
     output: {
         //where you want your compiled bundle to be stored
@@ -41,7 +41,7 @@ module.exports = {
                 loader: 'babel-loader', 
                 query: {
                     //specify that we will be dealing with React code
-                    presets: ['react'] 
+                    presets: ['react', 'es2015'] 
                 }
             },
             // the next regex tells webpack to use style-loader and css-loader

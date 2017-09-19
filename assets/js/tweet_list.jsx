@@ -1,6 +1,6 @@
 import React from 'react';
+import Tweet from './tweet';
 
-import Tweet from 'tweet';
 
 class TweetList extends React.Component {
     constructor(props) {
@@ -13,6 +13,7 @@ class TweetList extends React.Component {
       };
 
       this.handleClick = this.handleClick.bind(this);
+      this.handleNextPage = this.handleNextPage.bind(this);
       this.loadTweetsFromServer = this.loadTweetsFromServer.bind(this);
       this.createCurrentTweetComponents = this.createCurrentTweetComponents.bind(this);
       this.createPagination = this.createPagination.bind(this);
@@ -23,9 +24,9 @@ class TweetList extends React.Component {
         // handle on success situation
         const { tweetsPerPage } = this.state;
         const tweetsByPage = [];
-        const numPages = parseInt(data.length / tweetsPerPage) + 1;
+        const numPages = Math.ceil(data.length / tweetsPerPage);
         // divide tweets by page
-        for (let i = 0; i < numPages - 1; i++) {
+        for (let i = 0; i < numPages; i++) {
           const tweetSlice = data.slice(i * tweetsPerPage, (i + 1) * tweetsPerPage);
           tweetsByPage.push(tweetSlice);
         }
@@ -37,8 +38,15 @@ class TweetList extends React.Component {
       this.setState({ currentPage: parseInt(e.target.id) });
     }
 
+    handleNextPage(e) {
+      const currentPage = this.state.currentPage;
+      if (currentPage !== this.state.numPages) {
+        this.setState({ currentPage: currentPage + 1 });
+      }
+    }
+
     loadTweetsFromServer(url) {
-      $.ajax({
+      return $.ajax({
         method: 'GET',
         url: url,
         datatype: 'json',
@@ -64,11 +72,18 @@ class TweetList extends React.Component {
       }
       const pageLinks = pages.map(i => {
         return (
-          <li key={i} id={i} onClick={this.handleClick}>
-            i
+          <li 
+            key={i} id={i} className='page'
+            onClick={this.handleClick}>
+            {i}
           </li>); 
       });
-      pageLinks.push(<li></li>);
+      pageLinks.push(
+        <li key={numPages+1} id={numPages+1}
+          className='page' onClick={this.handleNextPage}>
+          Next Page
+        </li>
+      );
       return (
         <ul className='pagination'>
           { pageLinks }
@@ -79,16 +94,20 @@ class TweetList extends React.Component {
     render() {
       const { tweets, currentPage, tweetsPerPage } = this.state;
       if (tweets.length !== 0) {
-        const tweetComponents = this.createCurrentPageTweets();
+        const tweetComponents = this.createCurrentTweetComponents();
         const pagination = this.createPagination();
         return (
           <div>
-            <ul>{ tweetComponents }</ul>
-            <ul>{ pagination }</ul>
+            <h2>Tapingo Twitter Assignment</h2>
+            <ul key='1'>{ tweetComponents }</ul>
+            <ul key='2'>{ pagination }</ul>
           </div>
         );
+      } else {
+        return (<div>loading</div>);
       }
     }
 
 }
 
+export default TweetList;
