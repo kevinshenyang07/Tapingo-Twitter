@@ -1,0 +1,1102 @@
+[
+  {
+    "pk": 909917410068660227, 
+    "model": "api.tweet", 
+    "fields": {
+      "text": "Help me out! Let\u2019s get Tapingo to deliver from the best restaurants near us. Join the petition #SELU21 #Selu20", 
+      "created_at": "Sep 18", 
+      "user_name": "FerrariFatboy\ud83d\udd25", 
+      "screen_name": "dooda___", 
+      "profile_image_url": "http://pbs.twimg.com/profile_images/892488044607148032/cMWscMM__normal.jpg"
+    }
+  }, 
+  {
+    "pk": 909915631931330561, 
+    "model": "api.tweet", 
+    "fields": {
+      "text": "@ktforsythe_7 Tapingo all day every day", 
+      "created_at": "Sep 18", 
+      "user_name": "Brooks Wilding", 
+      "screen_name": "brooksy_bear", 
+      "profile_image_url": "http://pbs.twimg.com/profile_images/743299212624834561/D3_srr3u_normal.jpg"
+    }
+  }, 
+  {
+    "pk": 909914908543930368, 
+    "model": "api.tweet", 
+    "fields": {
+      "text": "A Tapingo  notification that you're food is ready&gt;&gt;&gt;&gt;\"good morning\" texts", 
+      "created_at": "Sep 18", 
+      "user_name": "brooklin", 
+      "screen_name": "brooklinwill", 
+      "profile_image_url": "http://pbs.twimg.com/profile_images/908475994813714432/AUfIjGdh_normal.jpg"
+    }
+  }, 
+  {
+    "pk": 909905507586052097, 
+    "model": "api.tweet", 
+    "fields": {
+      "text": "RT @_kerikey: me in the Ferg while I wait on my Tapingo order. https://t.co/urX6ppKMq4", 
+      "created_at": "Sep 18", 
+      "user_name": "Li 21 \u2764\ud83e\udd40\ud83c\udf39", 
+      "screen_name": "belovedkay", 
+      "profile_image_url": "http://pbs.twimg.com/profile_images/906050559836385280/YSxD34EA_normal.jpg"
+    }
+  }, 
+  {
+    "pk": 909904017106534402, 
+    "model": "api.tweet", 
+    "fields": {
+      "text": "If you're not using tapingo what are you doing", 
+      "created_at": "Sep 18", 
+      "user_name": "cody", 
+      "screen_name": "cody_leichnam", 
+      "profile_image_url": "http://pbs.twimg.com/profile_images/897217256542916608/Uo3YzZ3x_normal.jpg"
+    }
+  }, 
+  {
+    "pk": 909891408269635585, 
+    "model": "api.tweet", 
+    "fields": {
+      "text": "Tapingo: your order is ready\nRestaurant: *takes an extra 20 minutes*", 
+      "created_at": "Sep 18", 
+      "user_name": "\ud83c\udf0c Stardust \ud83c\udf0c", 
+      "screen_name": "jay_sope", 
+      "profile_image_url": "http://pbs.twimg.com/profile_images/907741007596400641/cj0V3uRt_normal.jpg"
+    }
+  }, 
+  {
+    "pk": 909876152046620673, 
+    "model": "api.tweet", 
+    "fields": {
+      "text": "I would to order food off Tapingo and someone bring it to me\ud83d\ude2b", 
+      "created_at": "Sep 18", 
+      "user_name": "asia\u2652\ufe0f", 
+      "screen_name": "AsiaMaeeee", 
+      "profile_image_url": "http://pbs.twimg.com/profile_images/906707695125893120/mDMQLETT_normal.jpg"
+    }
+  }, 
+  {
+    "pk": 909875774282506240, 
+    "model": "api.tweet", 
+    "fields": {
+      "text": "RT @HaileyJRace: Tapingo is a heaven sent", 
+      "created_at": "Sep 18", 
+      "user_name": "Tyler Bean", 
+      "screen_name": "tylerbeaner47", 
+      "profile_image_url": "http://pbs.twimg.com/profile_images/764395407493492736/OB8j7K7j_normal.jpg"
+    }
+  }, 
+  {
+    "pk": 909875166527868933, 
+    "model": "api.tweet", 
+    "fields": {
+      "text": "when you use Tapingo to skip the line but there's a LINE FOR TAPINGO PICK UPS", 
+      "created_at": "Sep 18", 
+      "user_name": "B.", 
+      "screen_name": "BillieMessina", 
+      "profile_image_url": "http://pbs.twimg.com/profile_images/904121867446968320/nIkdztCq_normal.jpg"
+    }
+  }, 
+  {
+    "pk": 909869165506289664, 
+    "model": "api.tweet", 
+    "fields": {
+      "text": "RT @HaileyJRace: Tapingo is a heaven sent", 
+      "created_at": "Sep 18", 
+      "user_name": "Tapingo", 
+      "screen_name": "tapingo", 
+      "profile_image_url": "http://pbs.twimg.com/profile_images/862377700467625984/9L5brizB_normal.jpg"
+    }
+  }, 
+  {
+    "pk": 909868454332784641, 
+    "model": "api.tweet", 
+    "fields": {
+      "text": "Tapingo is a heaven sent", 
+      "created_at": "Sep 18", 
+      "user_name": "Hailey Race", 
+      "screen_name": "HaileyJRace", 
+      "profile_image_url": "http://pbs.twimg.com/profile_images/906740981655064576/EnLgcQaF_normal.jpg"
+    }
+  }, 
+  {
+    "pk": 909860328069926912, 
+    "model": "api.tweet", 
+    "fields": {
+      "text": "Tapingo clutch af", 
+      "created_at": "Sep 18", 
+      "user_name": "jessica", 
+      "screen_name": "jessica9godinez", 
+      "profile_image_url": "http://pbs.twimg.com/profile_images/889286896177868800/NSfc0ytJ_normal.jpg"
+    }
+  }, 
+  {
+    "pk": 909849612399337473, 
+    "model": "api.tweet", 
+    "fields": {
+      "text": "me in the Ferg while I wait on my Tapingo order. https://t.co/urX6ppKMq4", 
+      "created_at": "Sep 18", 
+      "user_name": "KD\u2728", 
+      "screen_name": "_kerikey", 
+      "profile_image_url": "http://pbs.twimg.com/profile_images/901488444836376576/sUxVEdGp_normal.jpg"
+    }
+  }, 
+  {
+    "pk": 909849096273432578, 
+    "model": "api.tweet", 
+    "fields": {
+      "text": "RT @daninicole0351: Tapingo delivery is gods gift to college kids during exams", 
+      "created_at": "Sep 18", 
+      "user_name": "Amy Rupkalvis", 
+      "screen_name": "ruppietup", 
+      "profile_image_url": "http://pbs.twimg.com/profile_images/763006956282011648/Vav6rhnh_normal.jpg"
+    }
+  }, 
+  {
+    "pk": 909846800311439360, 
+    "model": "api.tweet", 
+    "fields": {
+      "text": "Even the tapingo app lies. 6 minutes is more like 20\ud83d\ude44", 
+      "created_at": "Sep 18", 
+      "user_name": "Lauren\ud83d\udcab", 
+      "screen_name": "_laurrrennm_", 
+      "profile_image_url": "http://pbs.twimg.com/profile_images/892967633489809409/YMocEG1A_normal.jpg"
+    }
+  }, 
+  {
+    "pk": 909846754958360576, 
+    "model": "api.tweet", 
+    "fields": {
+      "text": "RT @daninicole0351: Tapingo delivery is gods gift to college kids during exams", 
+      "created_at": "Sep 18", 
+      "user_name": "Tapingo", 
+      "screen_name": "tapingo", 
+      "profile_image_url": "http://pbs.twimg.com/profile_images/862377700467625984/9L5brizB_normal.jpg"
+    }
+  }, 
+  {
+    "pk": 909845337560543234, 
+    "model": "api.tweet", 
+    "fields": {
+      "text": "Tapingo delivery is gods gift to college kids during exams", 
+      "created_at": "Sep 18", 
+      "user_name": "Dani \ud83e\udd18\ud83c\udffb", 
+      "screen_name": "daninicole0351", 
+      "profile_image_url": "http://pbs.twimg.com/profile_images/900557760689000449/6lrTSpQ__normal.jpg"
+    }
+  }, 
+  {
+    "pk": 909842798295339008, 
+    "model": "api.tweet", 
+    "fields": {
+      "text": "It just took Starbucks in B&amp;N 25 min to make my coffee even though I used tapingo?! whats the point", 
+      "created_at": "Sep 18", 
+      "user_name": "*Maggie", 
+      "screen_name": "MagRags", 
+      "profile_image_url": "http://pbs.twimg.com/profile_images/843269708124241920/fqvAl1rV_normal.jpg"
+    }
+  }, 
+  {
+    "pk": 909835676111142912, 
+    "model": "api.tweet", 
+    "fields": {
+      "text": "Tapingo saves my time at Starbucks in the mornings \ud83d\ude2d\u2764\ufe0f", 
+      "created_at": "Sep 18", 
+      "user_name": "Ju", 
+      "screen_name": "jubacarro", 
+      "profile_image_url": "http://pbs.twimg.com/profile_images/896193836002680832/r5GcIocm_normal.jpg"
+    }
+  }, 
+  {
+    "pk": 909833252344619008, 
+    "model": "api.tweet", 
+    "fields": {
+      "text": "@HokieDining are shops turning off Tapingo during peak times?", 
+      "created_at": "Sep 18", 
+      "user_name": "Sean Koval", 
+      "screen_name": "sdkoval", 
+      "profile_image_url": "http://pbs.twimg.com/profile_images/908694239319674881/1k_p3bmq_normal.jpg"
+    }
+  }, 
+  {
+    "pk": 909830804104269824, 
+    "model": "api.tweet", 
+    "fields": {
+      "text": "I gotta re download tapingo. These lines are crazy \ud83d\ude2a", 
+      "created_at": "Sep 18", 
+      "user_name": "Vava", 
+      "screen_name": "Yvonaaa_", 
+      "profile_image_url": "http://pbs.twimg.com/profile_images/909198321696243712/0UXXH5vK_normal.jpg"
+    }
+  }, 
+  {
+    "pk": 909827793470574592, 
+    "model": "api.tweet", 
+    "fields": {
+      "text": "Cosmic Nation! Between Classes &amp; Hungry? Make your Break Cosmic with A Great Sub or Salad from @CosmicKentOH Use Ta\u2026 https://t.co/8vjzzSlnhb", 
+      "created_at": "Sep 18", 
+      "user_name": "Dave's Cosmic Subs", 
+      "screen_name": "CosmicKentOH", 
+      "profile_image_url": "http://pbs.twimg.com/profile_images/623969152466845696/H8zeIjIq_normal.jpg"
+    }
+  }, 
+  {
+    "pk": 909826540137000965, 
+    "model": "api.tweet", 
+    "fields": {
+      "text": "Help me out! Let\u2019s get Tapingo to deliver from the best restaurants near us. Join the petition", 
+      "created_at": "Sep 18", 
+      "user_name": "Brad Mansour", 
+      "screen_name": "bradley_mansour", 
+      "profile_image_url": "http://pbs.twimg.com/profile_images/852189366638321671/E3iCqPBJ_normal.jpg"
+    }
+  }, 
+  {
+    "pk": 909825641587101698, 
+    "model": "api.tweet", 
+    "fields": {
+      "text": "Tapingo is wayyyyyy to convenient \ud83e\udd26\ud83c\udffe\u200d\u2640\ufe0f I just be ordering shit just to be ordering it", 
+      "created_at": "Sep 18", 
+      "user_name": "Diamond \ud83c\udf38", 
+      "screen_name": "DiamondKhadejah", 
+      "profile_image_url": "http://pbs.twimg.com/profile_images/897305781468639232/a1VzPm1s_normal.jpg"
+    }
+  }, 
+  {
+    "pk": 909824365323276289, 
+    "model": "api.tweet", 
+    "fields": {
+      "text": "Nothing is worse than not having time to do what you want - like eating at Chili's. Cut out the wait with Tapingo and have Chili's to go!", 
+      "created_at": "Sep 18", 
+      "user_name": "Chili's CSU", 
+      "screen_name": "ChilisCSU", 
+      "profile_image_url": "http://pbs.twimg.com/profile_images/870632795735035904/_Zih2-VC_normal.jpg"
+    }
+  }, 
+  {
+    "pk": 909822712041926656, 
+    "model": "api.tweet", 
+    "fields": {
+      "text": "I Tapingo which wich in line just so I don't have to deal with the bags", 
+      "created_at": "Sep 18", 
+      "user_name": "Jen", 
+      "screen_name": "jennyslenzak", 
+      "profile_image_url": "http://pbs.twimg.com/profile_images/908035314073169920/ylvMBjEs_normal.jpg"
+    }
+  }, 
+  {
+    "pk": 909821449971601408, 
+    "model": "api.tweet", 
+    "fields": {
+      "text": "WHY TF ISNT TAPINGO WORKING AHDHSJAJSVSJ", 
+      "created_at": "Sep 18", 
+      "user_name": "Whitney", 
+      "screen_name": "whit_dana", 
+      "profile_image_url": "http://pbs.twimg.com/profile_images/672782791277420544/SkQYJLAi_normal.jpg"
+    }
+  }, 
+  {
+    "pk": 909816283167936520, 
+    "model": "api.tweet", 
+    "fields": {
+      "text": "@HUdining why has WOW been unavailable on the Tapingo app for over a week?", 
+      "created_at": "Sep 18", 
+      "user_name": "Chels\u265b", 
+      "screen_name": "chelsearachel_", 
+      "profile_image_url": "http://pbs.twimg.com/profile_images/908691013501440001/4DwVGVJ0_normal.jpg"
+    }
+  }, 
+  {
+    "pk": 909812522034790400, 
+    "model": "api.tweet", 
+    "fields": {
+      "text": "tapingo ruins everything", 
+      "created_at": "Sep 18", 
+      "user_name": "Bailey Myers", 
+      "screen_name": "RedWhiteNBailey", 
+      "profile_image_url": "http://pbs.twimg.com/profile_images/890391896853364737/MB3nW0GW_normal.jpg"
+    }
+  }, 
+  {
+    "pk": 909810021038542849, 
+    "model": "api.tweet", 
+    "fields": {
+      "text": "I just realized I can use my dining dollars on tapingo and honestly I feel blessed", 
+      "created_at": "Sep 18", 
+      "user_name": "Ab-BEES", 
+      "screen_name": "Abbie_B101", 
+      "profile_image_url": "http://pbs.twimg.com/profile_images/907679082409861120/pJs8TWDL_normal.jpg"
+    }
+  }, 
+  {
+    "pk": 909807163756998657, 
+    "model": "api.tweet", 
+    "fields": {
+      "text": "If everyone uses tapingo we can just all add another step to getting in line and waiting like we usually would!", 
+      "created_at": "Sep 18", 
+      "user_name": "(1-0)", 
+      "screen_name": "zachfurbee", 
+      "profile_image_url": "http://pbs.twimg.com/profile_images/909206263061413889/7RtC1wuL_normal.jpg"
+    }
+  }, 
+  {
+    "pk": 909806644414107649, 
+    "model": "api.tweet", 
+    "fields": {
+      "text": "@sumbri843 Tapingo my dude", 
+      "created_at": "Sep 18", 
+      "user_name": "Gab", 
+      "screen_name": "gab_giletto", 
+      "profile_image_url": "http://pbs.twimg.com/profile_images/889625387914985472/Ndasbtj-_normal.jpg"
+    }
+  }, 
+  {
+    "pk": 909803154547593216, 
+    "model": "api.tweet", 
+    "fields": {
+      "text": "@Jraudia just ordered me Tapingo in Pittsburgh for when I get out of class... if that isn't love idk what is \ud83d\ude42\u263a\ufe0f", 
+      "created_at": "Sep 18", 
+      "user_name": "Sara Schneidtmiller", 
+      "screen_name": "sara_asmiller8", 
+      "profile_image_url": "http://pbs.twimg.com/profile_images/907248754776055808/wNW2bPR-_normal.jpg"
+    }
+  }, 
+  {
+    "pk": 909794418676391936, 
+    "model": "api.tweet", 
+    "fields": {
+      "text": "I always tear off my tapingo label so that all the idiots who wait in lines don't resent me", 
+      "created_at": "Sep 18", 
+      "user_name": "Max", 
+      "screen_name": "maxbearsage", 
+      "profile_image_url": "http://pbs.twimg.com/profile_images/887420808402018308/62H3wZIo_normal.jpg"
+    }
+  }, 
+  {
+    "pk": 909789494412546048, 
+    "model": "api.tweet", 
+    "fields": {
+      "text": "thanks tapingo https://t.co/0IQSNLoRdO", 
+      "created_at": "Sep 18", 
+      "user_name": "natalie", 
+      "screen_name": "hayesnatalieb", 
+      "profile_image_url": "http://pbs.twimg.com/profile_images/907037357874012160/TS5zFJ_I_normal.jpg"
+    }
+  }, 
+  {
+    "pk": 909786606462259201, 
+    "model": "api.tweet", 
+    "fields": {
+      "text": "Skip the \u2615\ufe0f &amp; \ud83c\udf2f lines with the @EatAtWSU Tapingo app! Sync it to a credit card or your @Wright1Card meal plan:\u2026 https://t.co/jpL81tBxq1", 
+      "created_at": "Sep 18", 
+      "user_name": "Wright State Univ.", 
+      "screen_name": "wrightstate", 
+      "profile_image_url": "http://pbs.twimg.com/profile_images/878332209115140096/-YM_hGZh_normal.jpg"
+    }
+  }, 
+  {
+    "pk": 909783681073602560, 
+    "model": "api.tweet", 
+    "fields": {
+      "text": "Ike. Whenever you come into Sloopys to get a Tapingo order I freak out and my coworkers think I'm insane.", 
+      "created_at": "Sep 18", 
+      "user_name": "OSU Crush", 
+      "screen_name": "OSUCrush", 
+      "profile_image_url": "http://pbs.twimg.com/profile_images/552575134288982016/caWU3JIz_normal.png"
+    }
+  }, 
+  {
+    "pk": 909777342091943936, 
+    "model": "api.tweet", 
+    "fields": {
+      "text": "tapingo saved my life this morning", 
+      "created_at": "Sep 18", 
+      "user_name": "braiden", 
+      "screen_name": "B4RII", 
+      "profile_image_url": "http://pbs.twimg.com/profile_images/890059459824898048/Lx2uzV3v_normal.jpg"
+    }
+  }, 
+  {
+    "pk": 909662742079873025, 
+    "model": "api.tweet", 
+    "fields": {
+      "text": "@tsavmonet Tapingo my guy", 
+      "created_at": "Sep 18", 
+      "user_name": "Madison Jean", 
+      "screen_name": "maddie_jean22", 
+      "profile_image_url": "http://pbs.twimg.com/profile_images/895018439554682880/KS7BBG6l_normal.jpg"
+    }
+  }, 
+  {
+    "pk": 909623085107625984, 
+    "model": "api.tweet", 
+    "fields": {
+      "text": "RT @JobHired: 1+ YR EXP #PYTHON #REACT skills? @tapingo is seeking a Full Stack Engineer to join their team in #SF &gt;&gt; https://t.co/P5fMnytt\u2026", 
+      "created_at": "Sep 18", 
+      "user_name": "Careers in Growth", 
+      "screen_name": "careersingrowth", 
+      "profile_image_url": "http://pbs.twimg.com/profile_images/827202681605337089/zpGV0Fkb_normal.jpg"
+    }
+  }, 
+  {
+    "pk": 909613363558256640, 
+    "model": "api.tweet", 
+    "fields": {
+      "text": "1+ YR EXP #PYTHON #REACT skills? @tapingo is seeking a Full Stack Engineer to join their team in #SF &gt;&gt;\u2026 https://t.co/FGUG7BSStX", 
+      "created_at": "Sep 18", 
+      "user_name": "JobHired.io", 
+      "screen_name": "JobHired", 
+      "profile_image_url": "http://pbs.twimg.com/profile_images/758024695262289920/v-inbF2e_normal.jpg"
+    }
+  }, 
+  {
+    "pk": 909604596284317696, 
+    "model": "api.tweet", 
+    "fields": {
+      "text": "RT @SummerAbrunza: Happy bday to the sweetest gal. Boy bashin, mash playin, calculus cryin, tapingo eatin,&amp; sully livin would have never be\u2026", 
+      "created_at": "Sep 18", 
+      "user_name": "darha makayla\ud83c\udf89", 
+      "screen_name": "DarhaPonder", 
+      "profile_image_url": "http://pbs.twimg.com/profile_images/909265567953166336/Sihzx3ux_normal.jpg"
+    }
+  }, 
+  {
+    "pk": 909602091332767744, 
+    "model": "api.tweet", 
+    "fields": {
+      "text": "Happy bday to the sweetest gal. Boy bashin, mash playin, calculus cryin, tapingo eatin,&amp; sully livin would have nev\u2026 https://t.co/wlQa97lgnH", 
+      "created_at": "Sep 18", 
+      "user_name": "summer\u263cabrunza", 
+      "screen_name": "SummerAbrunza", 
+      "profile_image_url": "http://pbs.twimg.com/profile_images/908025265879748613/xAq228QT_normal.jpg"
+    }
+  }, 
+  {
+    "pk": 909536766918631425, 
+    "model": "api.tweet", 
+    "fields": {
+      "text": "RT @sarawantsliders: @tapingo why does your app have a help option for when merchants mess up orders but your customer service rep said you\u2026", 
+      "created_at": "Sep 17", 
+      "user_name": "Sara", 
+      "screen_name": "sarawantsliders", 
+      "profile_image_url": "http://pbs.twimg.com/profile_images/908774442670620675/BWvhxWfe_normal.jpg"
+    }
+  }, 
+  {
+    "pk": 909535648230658048, 
+    "model": "api.tweet", 
+    "fields": {
+      "text": "@tapingo Your company claims it's good for college students but you can't handle a $2 refund? Postmates, grubhub, e\u2026 https://t.co/sQRZOjEuz9", 
+      "created_at": "Sep 17", 
+      "user_name": "Sara", 
+      "screen_name": "sarawantsliders", 
+      "profile_image_url": "http://pbs.twimg.com/profile_images/908774442670620675/BWvhxWfe_normal.jpg"
+    }
+  }, 
+  {
+    "pk": 909535303697932288, 
+    "model": "api.tweet", 
+    "fields": {
+      "text": "@tapingo why does your app have a help option for when merchants mess up orders but your customer service rep said\u2026 https://t.co/xfHOQX5LHW", 
+      "created_at": "Sep 17", 
+      "user_name": "Sara", 
+      "screen_name": "sarawantsliders", 
+      "profile_image_url": "http://pbs.twimg.com/profile_images/908774442670620675/BWvhxWfe_normal.jpg"
+    }
+  }, 
+  {
+    "pk": 909534111919898624, 
+    "model": "api.tweet", 
+    "fields": {
+      "text": "The fresco's on campus needs tapingo I'm tired of this line being so long", 
+      "created_at": "Sep 17", 
+      "user_name": "\u2022big lexi\u2022", 
+      "screen_name": "lexers_marie", 
+      "profile_image_url": "http://pbs.twimg.com/profile_images/896189845969809409/jOUGXjpS_normal.jpg"
+    }
+  }, 
+  {
+    "pk": 909527511494807552, 
+    "model": "api.tweet", 
+    "fields": {
+      "text": "RT @ilyChrissyRai: Tapingo is the best thing in the world\ud83d\ude2d", 
+      "created_at": "Sep 17", 
+      "user_name": "\ud83d\ude1c\u2728Ash Cash\ud83d\ude1c\u2728", 
+      "screen_name": "goofyashhhh", 
+      "profile_image_url": "http://pbs.twimg.com/profile_images/887437682250534917/J5RFB1mW_normal.jpg"
+    }
+  }, 
+  {
+    "pk": 909526812090388480, 
+    "model": "api.tweet", 
+    "fields": {
+      "text": "Tapingo saving lives out here", 
+      "created_at": "Sep 17", 
+      "user_name": "Kyle Marx", 
+      "screen_name": "kmarx21", 
+      "profile_image_url": "http://pbs.twimg.com/profile_images/870296226553528320/z_S-XePC_normal.jpg"
+    }
+  }, 
+  {
+    "pk": 909525536921325569, 
+    "model": "api.tweet", 
+    "fields": {
+      "text": "Tapingo is such a blessing", 
+      "created_at": "Sep 17", 
+      "user_name": "brianna jarBOO", 
+      "screen_name": "Iambriannalynn", 
+      "profile_image_url": "http://pbs.twimg.com/profile_images/908544735068819456/wVx5B717_normal.jpg"
+    }
+  }, 
+  {
+    "pk": 909505172086300672, 
+    "model": "api.tweet", 
+    "fields": {
+      "text": "Tapingo is a serious blessing", 
+      "created_at": "Sep 17", 
+      "user_name": "Karina \ud83e\udd19\ud83c\udffc", 
+      "screen_name": "karinakiara99", 
+      "profile_image_url": "http://pbs.twimg.com/profile_images/890175972246306816/QoOqjfaX_normal.jpg"
+    }
+  }, 
+  {
+    "pk": 909503110980268032, 
+    "model": "api.tweet", 
+    "fields": {
+      "text": "Tapingo is the best thing in the world\ud83d\ude2d", 
+      "created_at": "Sep 17", 
+      "user_name": "\ud83d\udc51", 
+      "screen_name": "ilyChrissyRai", 
+      "profile_image_url": "http://pbs.twimg.com/profile_images/878262759523307520/1QH8vEtF_normal.jpg"
+    }
+  }, 
+  {
+    "pk": 909483274161897472, 
+    "model": "api.tweet", 
+    "fields": {
+      "text": "PSA-Do not do business with @tapingo they are thieves. #scum #thieves", 
+      "created_at": "Sep 17", 
+      "user_name": "John Lucas", 
+      "screen_name": "jawnlucas", 
+      "profile_image_url": "http://pbs.twimg.com/profile_images/698340919490146308/Wvv1NcRT_normal.jpg"
+    }
+  }, 
+  {
+    "pk": 909474917242085376, 
+    "model": "api.tweet", 
+    "fields": {
+      "text": "The guy that works tapingo ngo at sloopys doesn't even ask my name anymore because that is the only place I eat..", 
+      "created_at": "Sep 17", 
+      "user_name": "kayyyyy \u270c\ufe0f", 
+      "screen_name": "KaylaHopkins8", 
+      "profile_image_url": "http://pbs.twimg.com/profile_images/907677996496117760/2q2uF_q2_normal.jpg"
+    }
+  }, 
+  {
+    "pk": 909470016629649409, 
+    "model": "api.tweet", 
+    "fields": {
+      "text": "RT @Madi_017: Tapingo is the best thing that's ever happened to me TBH", 
+      "created_at": "Sep 17", 
+      "user_name": "Tapingo", 
+      "screen_name": "tapingo", 
+      "profile_image_url": "http://pbs.twimg.com/profile_images/862377700467625984/9L5brizB_normal.jpg"
+    }
+  }, 
+  {
+    "pk": 909457926531829760, 
+    "model": "api.tweet", 
+    "fields": {
+      "text": "Tapingo is the best thing that's ever happened to me TBH", 
+      "created_at": "Sep 17", 
+      "user_name": "Madison\u2600\ufe0e", 
+      "screen_name": "Madi_017", 
+      "profile_image_url": "http://pbs.twimg.com/profile_images/901538253328744449/nZUt3Qaj_normal.jpg"
+    }
+  }, 
+  {
+    "pk": 909454875158859776, 
+    "model": "api.tweet", 
+    "fields": {
+      "text": "@ecelumba @caseyduds @Grubhub @EatStreet @joyrunapp @UberEATS @tapingo @Eat24", 
+      "created_at": "Sep 17", 
+      "user_name": "Nick Perkins", 
+      "screen_name": "NickPerkins22", 
+      "profile_image_url": "http://pbs.twimg.com/profile_images/889340932189040640/kdDPmfjw_normal.jpg"
+    }
+  }, 
+  {
+    "pk": 909334563339436032, 
+    "model": "api.tweet", 
+    "fields": {
+      "text": "I wanted to go out tonight but instead I'm at home watching Talladega Nights and waiting for Taco Bell to come back on Tapingo \ud83d\ude44", 
+      "created_at": "Sep 17", 
+      "user_name": "caf\u00e9 con leche", 
+      "screen_name": "gracie_aby", 
+      "profile_image_url": "http://pbs.twimg.com/profile_images/843255649739784192/HnXePlYN_normal.jpg"
+    }
+  }, 
+  {
+    "pk": 909332296095825920, 
+    "model": "api.tweet", 
+    "fields": {
+      "text": "I wish tapingo was open 24/7", 
+      "created_at": "Sep 17", 
+      "user_name": "Jen Siegel", 
+      "screen_name": "HeeeyJenn", 
+      "profile_image_url": "http://pbs.twimg.com/profile_images/908204117528526848/tPZi0kLk_normal.jpg"
+    }
+  }, 
+  {
+    "pk": 909275872909250560, 
+    "model": "api.tweet", 
+    "fields": {
+      "text": "RT @Heyy_jass: Tapingo has me spoiled \ud83d\ude29", 
+      "created_at": "Sep 17", 
+      "user_name": "Bri \u2728", 
+      "screen_name": "BreezyHarvey", 
+      "profile_image_url": "http://pbs.twimg.com/profile_images/850333812412350464/utWukD1p_normal.jpg"
+    }
+  }, 
+  {
+    "pk": 909263914105323520, 
+    "model": "api.tweet", 
+    "fields": {
+      "text": "@tapingo please check your DMs. Order issue with no courier.", 
+      "created_at": "Sep 17", 
+      "user_name": "Nicole", 
+      "screen_name": "yayornaynicole", 
+      "profile_image_url": "http://pbs.twimg.com/profile_images/902696248410488832/WFmDu9qG_normal.jpg"
+    }
+  }, 
+  {
+    "pk": 909246323009785858, 
+    "model": "api.tweet", 
+    "fields": {
+      "text": "@poiisons nah i live in an Actual City, i think, technically. (we don't have tapingo here)", 
+      "created_at": "Sep 17", 
+      "user_name": "Lapsed Pacifist\ud83c\udf39", 
+      "screen_name": "NoraReed", 
+      "profile_image_url": "http://pbs.twimg.com/profile_images/875616560332668929/Fz6ishAM_normal.jpg"
+    }
+  }, 
+  {
+    "pk": 909243328432046080, 
+    "model": "api.tweet", 
+    "fields": {
+      "text": "Tapingo has me spoiled \ud83d\ude29", 
+      "created_at": "Sep 17", 
+      "user_name": "Jasmine", 
+      "screen_name": "Heyy_jass", 
+      "profile_image_url": "http://pbs.twimg.com/profile_images/907282821982703617/KS4XtDgt_normal.jpg"
+    }
+  }, 
+  {
+    "pk": 909242679489384448, 
+    "model": "api.tweet", 
+    "fields": {
+      "text": "@NoraReed do you live in a college town? tapingo is a delivery service kind of like uber that's in a lot of college\u2026 https://t.co/fxa32Im3XG", 
+      "created_at": "Sep 17", 
+      "user_name": "bee \ud83c\udff3\ufe0f\u200d\ud83c\udf08", 
+      "screen_name": "poiisons", 
+      "profile_image_url": "http://pbs.twimg.com/profile_images/880609935045873664/12z_0Ao4_normal.jpg"
+    }
+  }, 
+  {
+    "pk": 909227227346292737, 
+    "model": "api.tweet", 
+    "fields": {
+      "text": "@tapingo I ordered my food at 6:46 and it's 9:26. And I still didn't get it. The quoted time was 30-40 minutes. And I can't even cancel wtf", 
+      "created_at": "Sep 17", 
+      "user_name": "litty\ud83e\udd18\ud83c\udffe\u2728", 
+      "screen_name": "Byeantonioo", 
+      "profile_image_url": "http://pbs.twimg.com/profile_images/901830091155570688/eCTP5g30_normal.jpg"
+    }
+  }, 
+  {
+    "pk": 909171836121792512, 
+    "model": "api.tweet", 
+    "fields": {
+      "text": "CAN SOMEONE PLS TEACH ME HOW TO USE TAPINGO bc I can't keep waiting in the 60-people-long line at einsteins when I want a coffee", 
+      "created_at": "Sep 16", 
+      "user_name": "nicole irene", 
+      "screen_name": "coleyirene", 
+      "profile_image_url": "http://pbs.twimg.com/profile_images/904764663354736640/x-OM8yz-_normal.jpg"
+    }
+  }, 
+  {
+    "pk": 909155069441998850, 
+    "model": "api.tweet", 
+    "fields": {
+      "text": "Tapingo delivering Qdoba now is probably the best news I've received in months #givemetacos \ud83c\udf2e", 
+      "created_at": "Sep 16", 
+      "user_name": "The Rival Loyola", 
+      "screen_name": "TheRivalLoyola", 
+      "profile_image_url": "http://pbs.twimg.com/profile_images/823700959993937920/_pA3mq1t_normal.jpg"
+    }
+  }, 
+  {
+    "pk": 909153722604883968, 
+    "model": "api.tweet", 
+    "fields": {
+      "text": "Hungry? Want to order a delicious Wefald Burger stacked w/ our mac&amp;cheese... well you can! Download @tapingo now &amp;\u2026 https://t.co/9a0nwnDTSm", 
+      "created_at": "Sep 16", 
+      "user_name": "KStateJPs", 
+      "screen_name": "KStateJPs", 
+      "profile_image_url": "http://pbs.twimg.com/profile_images/892773911498072066/qYQuVmm0_normal.jpg"
+    }
+  }, 
+  {
+    "pk": 909135470998822913, 
+    "model": "api.tweet", 
+    "fields": {
+      "text": "@RobinBradley10 The company its self said its to be pronounced like Tapingo\ud83d\ude02\ud83d\ude02\ud83d\ude02\ud83d\ude02", 
+      "created_at": "Sep 16", 
+      "user_name": "Abby Eubanks", 
+      "screen_name": "abbyeubanks", 
+      "profile_image_url": "http://pbs.twimg.com/profile_images/907342524754350080/4l7pFnSL_normal.jpg"
+    }
+  }, 
+  {
+    "pk": 909121858011774976, 
+    "model": "api.tweet", 
+    "fields": {
+      "text": "Don't waste time in lines. Download the free Tapingo app &amp; order from ur phone w/FlexDine, credit or debit from UCI\u2026 https://t.co/0xcuh6raqC", 
+      "created_at": "Sep 16", 
+      "user_name": "UCI Dining", 
+      "screen_name": "UCIDining", 
+      "profile_image_url": "http://pbs.twimg.com/profile_images/368539494/UCI_Hospitality___Dining_normal.png"
+    }
+  }, 
+  {
+    "pk": 909121279818690560, 
+    "model": "api.tweet", 
+    "fields": {
+      "text": "I ordered chipotle from Tapingo and it just never came @tapingo", 
+      "created_at": "Sep 16", 
+      "user_name": "mou", 
+      "screen_name": "geesay98", 
+      "profile_image_url": "http://pbs.twimg.com/profile_images/909076673542393856/K_p_c4nz_normal.jpg"
+    }
+  }, 
+  {
+    "pk": 909108716087132161, 
+    "model": "api.tweet", 
+    "fields": {
+      "text": "Yep. We are OPEN til 8 today! Stop in!  Or Delivery thru Tapingo and Pick Up thru Tapingo and\u2026 https://t.co/AecCGS3HiV", 
+      "created_at": "Sep 16", 
+      "user_name": "Burrito Loco", 
+      "screen_name": "BurritoLocoWC", 
+      "profile_image_url": "http://pbs.twimg.com/profile_images/462575942896857088/KkGSCsEQ_normal.jpeg"
+    }
+  }, 
+  {
+    "pk": 909066706601078784, 
+    "model": "api.tweet", 
+    "fields": {
+      "text": "@tapingo They aren't replying to emails and can't do anything over the phone. Food delivery is not worth all of this!", 
+      "created_at": "Sep 16", 
+      "user_name": "Emmy", 
+      "screen_name": "firstpeep98", 
+      "profile_image_url": "http://pbs.twimg.com/profile_images/780086683161202688/OFCijT-h_normal.jpg"
+    }
+  }, 
+  {
+    "pk": 909066666390237189, 
+    "model": "api.tweet", 
+    "fields": {
+      "text": "@tapingo has the worst customer service. I was charged for an order I never received and now they're refusing to give me a refund.", 
+      "created_at": "Sep 16", 
+      "user_name": "Emmy", 
+      "screen_name": "firstpeep98", 
+      "profile_image_url": "http://pbs.twimg.com/profile_images/780086683161202688/OFCijT-h_normal.jpg"
+    }
+  }, 
+  {
+    "pk": 908978578003496960, 
+    "model": "api.tweet", 
+    "fields": {
+      "text": "wtf is Tapingo closed rn I would pay any fee for cookout to be delivered", 
+      "created_at": "Sep 16", 
+      "user_name": "Doug Hanson", 
+      "screen_name": "douglas_hanson2", 
+      "profile_image_url": "http://pbs.twimg.com/profile_images/843785990321983490/ocXWZFTI_normal.jpg"
+    }
+  }, 
+  {
+    "pk": 908883992270827520, 
+    "model": "api.tweet", 
+    "fields": {
+      "text": "RT @Lovely_Lue: @_puravida__ Love you, I'll text you next week for a Tapingo meal \ud83d\ude07", 
+      "created_at": "Sep 16", 
+      "user_name": "kuh-shun-tee! :)", 
+      "screen_name": "_puravida__", 
+      "profile_image_url": "http://pbs.twimg.com/profile_images/878484364589445121/G-TAIbAl_normal.jpg"
+    }
+  }, 
+  {
+    "pk": 908883826281254913, 
+    "model": "api.tweet", 
+    "fields": {
+      "text": "@_puravida__ Love you, I'll text you next week for a Tapingo meal \ud83d\ude07", 
+      "created_at": "Sep 16", 
+      "user_name": "April Shantell", 
+      "screen_name": "Lovely_Lue", 
+      "profile_image_url": "http://pbs.twimg.com/profile_images/908671860770050049/OinL9GKI_normal.jpg"
+    }
+  }, 
+  {
+    "pk": 908869176336535553, 
+    "model": "api.tweet", 
+    "fields": {
+      "text": "My Tapingo guy forgot my straw...\ud83d\ude13", 
+      "created_at": "Sep 16", 
+      "user_name": "Eyanna Bell", 
+      "screen_name": "EyannaBell", 
+      "profile_image_url": "http://pbs.twimg.com/profile_images/893857422086991872/FNzKyEHF_normal.jpg"
+    }
+  }, 
+  {
+    "pk": 908863652954083328, 
+    "model": "api.tweet", 
+    "fields": {
+      "text": "My tapingo lady was kinda crazy but she was so sweet \ud83d\ude02\ud83d\ude02\ud83d\ude02", 
+      "created_at": "Sep 16", 
+      "user_name": "Alyssa", 
+      "screen_name": "lys_to_me", 
+      "profile_image_url": "http://pbs.twimg.com/profile_images/905942277863944192/UetJp6v5_normal.jpg"
+    }
+  }, 
+  {
+    "pk": 908847928546140161, 
+    "model": "api.tweet", 
+    "fields": {
+      "text": "If you don't know what Tapingo is then I feel sorry for you", 
+      "created_at": "Sep 16", 
+      "user_name": "\ud83c\udf17", 
+      "screen_name": "AudryHenson", 
+      "profile_image_url": "http://pbs.twimg.com/profile_images/877570954897092608/Uhc_vrWX_normal.jpg"
+    }
+  }, 
+  {
+    "pk": 908844344173408256, 
+    "model": "api.tweet", 
+    "fields": {
+      "text": "RT @BigOleSeth: S/O to Tapingo for making it easier for me to make my poor dietary decisions", 
+      "created_at": "Sep 16", 
+      "user_name": "sc: quinalynj", 
+      "screen_name": "QuinalynJ", 
+      "profile_image_url": "http://pbs.twimg.com/profile_images/821798920548392960/wf7MQ4Qm_normal.jpg"
+    }
+  }, 
+  {
+    "pk": 908843419296026624, 
+    "model": "api.tweet", 
+    "fields": {
+      "text": "RT @BrandonHaneyy: Tapingo coming in clutch \u270a\ud83c\udffb\u270a\ud83c\udffb", 
+      "created_at": "Sep 16", 
+      "user_name": "Moshak", 
+      "screen_name": "KMoshak", 
+      "profile_image_url": "http://pbs.twimg.com/profile_images/848681923723616256/G7c3Wiv8_normal.jpg"
+    }
+  }, 
+  {
+    "pk": 908840417902415873, 
+    "model": "api.tweet", 
+    "fields": {
+      "text": "Tapingo coming in clutch \u270a\ud83c\udffb\u270a\ud83c\udffb", 
+      "created_at": "Sep 15", 
+      "user_name": "Brandon Haney", 
+      "screen_name": "BrandonHaneyy", 
+      "profile_image_url": "http://pbs.twimg.com/profile_images/908829312970829824/11mzFek9_normal.jpg"
+    }
+  }, 
+  {
+    "pk": 908836340883652608, 
+    "model": "api.tweet", 
+    "fields": {
+      "text": "Question: how do you pronounce \"Tapingo\"?", 
+      "created_at": "Sep 15", 
+      "user_name": "Jack DeLine", 
+      "screen_name": "jackrdeline", 
+      "profile_image_url": "http://pbs.twimg.com/profile_images/852589804135096321/R8sC7_Ti_normal.jpg"
+    }
+  }, 
+  {
+    "pk": 908814779250298880, 
+    "model": "api.tweet", 
+    "fields": {
+      "text": "The first wearable hunger tech.....wow @tapingo https://t.co/TCiDKcrZUz", 
+      "created_at": "Sep 15", 
+      "user_name": "bizee.io", 
+      "screen_name": "bizeebees", 
+      "profile_image_url": "http://pbs.twimg.com/profile_images/908713726949326849/YpcUbDDM_normal.jpg"
+    }
+  }, 
+  {
+    "pk": 908781253746479106, 
+    "model": "api.tweet", 
+    "fields": {
+      "text": "@tapingo @abbyeubanks #GotEm", 
+      "created_at": "Sep 15", 
+      "user_name": "Jalaan The F-Avritte", 
+      "screen_name": "SleepinLegend", 
+      "profile_image_url": "http://pbs.twimg.com/profile_images/884517082913755136/YXjuyY0h_normal.jpg"
+    }
+  }, 
+  {
+    "pk": 908779860318760961, 
+    "model": "api.tweet", 
+    "fields": {
+      "text": "This bitch out here pronouncing tapingo as ta-PEEN-go I'm dead", 
+      "created_at": "Sep 15", 
+      "user_name": "Jordan Franco", 
+      "screen_name": "Jordann_Franco", 
+      "profile_image_url": "http://pbs.twimg.com/profile_images/885923117876428800/mAmKldz5_normal.jpg"
+    }
+  }, 
+  {
+    "pk": 908772737199378432, 
+    "model": "api.tweet", 
+    "fields": {
+      "text": "i love it when you go to order tapingo and then iggys goes off tapingo right as you press order :-)", 
+      "created_at": "Sep 15", 
+      "user_name": "Summer Plair", 
+      "screen_name": "uncle_daddyy", 
+      "profile_image_url": "http://pbs.twimg.com/profile_images/883027511319289856/wVaBlpHd_normal.jpg"
+    }
+  }, 
+  {
+    "pk": 908770737506410496, 
+    "model": "api.tweet", 
+    "fields": {
+      "text": "@kirstenkohl Hi Kirsten, our apologies! We are working on this and hope to have Origami sushi fully operational and\u2026 https://t.co/qN7ka3W0mC", 
+      "created_at": "Sep 15", 
+      "user_name": "VT Dining Services", 
+      "screen_name": "HokieDining", 
+      "profile_image_url": "http://pbs.twimg.com/profile_images/803639387942768640/hBAzx1tg_normal.jpg"
+    }
+  }, 
+  {
+    "pk": 908769394343411713, 
+    "model": "api.tweet", 
+    "fields": {
+      "text": "@HokieDining why does Tapingo never work for origami sushi \ud83d\ude22\ud83d\ude22\ud83d\ude22", 
+      "created_at": "Sep 15", 
+      "user_name": "kirsten", 
+      "screen_name": "kirstenkohl", 
+      "profile_image_url": "http://pbs.twimg.com/profile_images/853996828995575808/dQajepdE_normal.jpg"
+    }
+  }, 
+  {
+    "pk": 908758622611505152, 
+    "model": "api.tweet", 
+    "fields": {
+      "text": "RT @crudder_ryan: @tapingo could be my new favorite app \u2615\ufe0f", 
+      "created_at": "Sep 15", 
+      "user_name": "Tapingo", 
+      "screen_name": "tapingo", 
+      "profile_image_url": "http://pbs.twimg.com/profile_images/862377700467625984/9L5brizB_normal.jpg"
+    }
+  }, 
+  {
+    "pk": 908753563890962432, 
+    "model": "api.tweet", 
+    "fields": {
+      "text": "@Chrisss91393 Skip the line with Tapingo!", 
+      "created_at": "Sep 15", 
+      "user_name": "SFA Dining", 
+      "screen_name": "SFADining", 
+      "profile_image_url": "http://pbs.twimg.com/profile_images/839897240021815297/gF46TsGH_normal.jpg"
+    }
+  }, 
+  {
+    "pk": 908751008163155968, 
+    "model": "api.tweet", 
+    "fields": {
+      "text": "@tapingo could be my new favorite app \u2615\ufe0f", 
+      "created_at": "Sep 15", 
+      "user_name": "Ryan Marie", 
+      "screen_name": "crudder_ryan", 
+      "profile_image_url": "http://pbs.twimg.com/profile_images/774296723070054400/rj1Ah94F_normal.jpg"
+    }
+  }, 
+  {
+    "pk": 908741797463171072, 
+    "model": "api.tweet", 
+    "fields": {
+      "text": "RT @JessicaChung13: The most upsetting this to happen to me today. @tapingo https://t.co/le6x9izGJa", 
+      "created_at": "Sep 15", 
+      "user_name": "BUY FOLLO\u20a9ERS :zkh", 
+      "screen_name": "BelzungEvelia", 
+      "profile_image_url": "http://pbs.twimg.com/profile_images/908741752617684993/v0tiHH8z_normal.jpg"
+    }
+  }, 
+  {
+    "pk": 908741485608292353, 
+    "model": "api.tweet", 
+    "fields": {
+      "text": "The most upsetting this to happen to me today. @tapingo https://t.co/le6x9izGJa", 
+      "created_at": "Sep 15", 
+      "user_name": "Jessica Chung", 
+      "screen_name": "JessicaChung13", 
+      "profile_image_url": "http://pbs.twimg.com/profile_images/883122055473922049/1aPX7Fc-_normal.jpg"
+    }
+  }, 
+  {
+    "pk": 908739361281363973, 
+    "model": "api.tweet", 
+    "fields": {
+      "text": "Tapingo is clutch af.", 
+      "created_at": "Sep 15", 
+      "user_name": "yng qwn\ud83d\udc51", 
+      "screen_name": "ayannachanel_", 
+      "profile_image_url": "http://pbs.twimg.com/profile_images/906210848380788737/dRlYyutC_normal.jpg"
+    }
+  }, 
+  {
+    "pk": 908728613952004098, 
+    "model": "api.tweet", 
+    "fields": {
+      "text": "Tapingo was the worst thing to happen to UK", 
+      "created_at": "Sep 15", 
+      "user_name": "Ayy", 
+      "screen_name": "Jacer0", 
+      "profile_image_url": "http://pbs.twimg.com/profile_images/861313134732206087/EFNOxUMv_normal.jpg"
+    }
+  }, 
+  {
+    "pk": 908726319625650177, 
+    "model": "api.tweet", 
+    "fields": {
+      "text": "@LilCwils oh no! sorry this happened to you. have you contacted our support team through the app?", 
+      "created_at": "Sep 15", 
+      "user_name": "Tapingo", 
+      "screen_name": "tapingo", 
+      "profile_image_url": "http://pbs.twimg.com/profile_images/862377700467625984/9L5brizB_normal.jpg"
+    }
+  }, 
+  {
+    "pk": 908725735883407360, 
+    "model": "api.tweet", 
+    "fields": {
+      "text": "How do you say Tapingo", 
+      "created_at": "Sep 15", 
+      "user_name": "The Black Sheep OSU", 
+      "screen_name": "BlackSheep_OSU", 
+      "profile_image_url": "http://pbs.twimg.com/profile_images/898219050563764226/1P7MnTx-_normal.jpg"
+    }
+  }, 
+  {
+    "pk": 908725631004938240, 
+    "model": "api.tweet", 
+    "fields": {
+      "text": "Tapingo is a gift from above. https://t.co/3bChShBDlm", 
+      "created_at": "Sep 15", 
+      "user_name": "The Black Sheep OSU", 
+      "screen_name": "BlackSheep_OSU", 
+      "profile_image_url": "http://pbs.twimg.com/profile_images/898219050563764226/1P7MnTx-_normal.jpg"
+    }
+  }
+]

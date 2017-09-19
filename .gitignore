@@ -1,3 +1,5 @@
+.vscode/
+
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]
@@ -99,3 +101,11 @@ ENV/
 
 # mypy
 .mypy_cache/
+
+# frontend
+node_modules/
+assets/bundles
+
+# misc.
+db.sqlite3
+*.save
