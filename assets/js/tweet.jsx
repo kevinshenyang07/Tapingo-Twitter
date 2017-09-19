@@ -1,5 +1,6 @@
 import React from 'react';
 
+
 const strToLink = (string, index) => {
   let href = "";
   // add link to mention
@@ -15,6 +16,7 @@ const strToLink = (string, index) => {
   // add link to url
   } else if (string.startsWith('http')) {
     return <span><a key={index} href={string}>{string}</a> </span>;
+  // keep non-link text
   } else {
     return string + " ";
   }
@@ -22,7 +24,9 @@ const strToLink = (string, index) => {
 
 const Tweet = ({ fields }) => {
   const { id, userName, screenName, text, profileImageUrl, createdAt } = fields;
+  // split a sentence to words and links
   const words = text.split(" ").map((word, i) => strToLink(word, i));
+  
   return (
     <li key={ id } className='tweet-item'>
       <div className='item-left'>

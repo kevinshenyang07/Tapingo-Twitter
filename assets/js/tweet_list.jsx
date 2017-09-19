@@ -5,13 +5,13 @@ import Tweet from './tweet';
 class TweetList extends React.Component {
     constructor(props) {
       super(props);
-
+      // initialize state
       this.state = {
         tweets: [],
         currentPage: 1,
         tweetsPerPage: 20
       };
-
+      // bind context on methods
       this.handleClick = this.handleClick.bind(this);
       this.handleNextPage = this.handleNextPage.bind(this);
       this.loadTweetsFromServer = this.loadTweetsFromServer.bind(this);
@@ -20,6 +20,7 @@ class TweetList extends React.Component {
     }
 
     componentDidMount() {
+  
       this.loadTweetsFromServer(this.props.url).then(data => {
         // handle on success situation
         const { tweetsPerPage } = this.state;
@@ -35,10 +36,12 @@ class TweetList extends React.Component {
     }
 
     handleClick(e) {
+      // update currentPage info, trigger rerender
       this.setState({ currentPage: parseInt(e.target.id) });
     }
 
     handleNextPage(e) {
+      // jump to next page's tweets
       const currentPage = this.state.currentPage;
       if (currentPage !== this.state.numPages) {
         this.setState({ currentPage: currentPage + 1 });
@@ -46,6 +49,7 @@ class TweetList extends React.Component {
     }
 
     loadTweetsFromServer(url) {
+      // standard ajax call
       return $.ajax({
         method: 'GET',
         url: url,
@@ -70,6 +74,7 @@ class TweetList extends React.Component {
       for (let i = 0; i < numPages; i++) {
         pages.push(i + 1);
       }
+      // map page numbers to links
       const pageLinks = pages.map(i => {
         return (
           <li 
@@ -78,6 +83,7 @@ class TweetList extends React.Component {
             {i}
           </li>); 
       });
+      // add an extra 'next' link
       pageLinks.push(
         <li key={numPages+1} id={numPages+1}
           className='page' onClick={this.handleNextPage}>
@@ -89,7 +95,9 @@ class TweetList extends React.Component {
 
     render() {
       const { tweets, currentPage, tweetsPerPage } = this.state;
+
       if (tweets.length !== 0) {
+        // render all child components
         const tweetComponents = this.createCurrentTweetComponents();
         const pagination = this.createPagination();
         return (
@@ -103,7 +111,8 @@ class TweetList extends React.Component {
 
         );
       } else {
-        return (<div>loading</div>);
+        // loading effect in the future
+        return (<div></div>);
       }
     }
 

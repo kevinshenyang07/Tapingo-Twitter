@@ -4,6 +4,7 @@ import json
 import oauth2
 
 
+# core oauth request
 def oauth_req(url, http_method="GET", post_body="", http_headers=None):
     consumer = oauth2.Consumer(key=os.getenv('CONSUMER_KEY'),
                                secret=os.getenv('CONSUMER_SECRET'))
@@ -15,6 +16,7 @@ def oauth_req(url, http_method="GET", post_body="", http_headers=None):
     return content
 
 
+# map status to seed data for django
 def status_to_fixture(status):
     # declare model and primary key
     fixture = {'model': 'api.tweet'}
@@ -31,11 +33,15 @@ def status_to_fixture(status):
     return fixture
 
 
-request_url = 'https://api.twitter.com/1.1/search/tweets.json?q=tapingo&count=100'
-statuses_str = oauth_req(request_url)
-statuses = json.loads(statuses_str).get('statuses', [])
-tweets = map(status_to_fixture, statuses)
+# wrapper for twitter api
+def request_tweets():
+    request_url = 'https://api.twitter.com/1.1/search/tweets.json?q=tapingo&count=100'
+    statuses_str = oauth_req(request_url)
+    statuses = json.loads(statuses_str).get('statuses', [])
+    tweets = map(status_to_fixture, statuses)
+    return tweets
 
 
+# write to local file
 with open('./fixtures/initdata.json', 'w+') as fo:
-    json.dump(tweets, fo, indent=2)
+    json.dump(request_tweets(), fo, indent=2)
